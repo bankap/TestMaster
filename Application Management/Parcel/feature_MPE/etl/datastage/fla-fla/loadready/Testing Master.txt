@@ -3,9 +3,9 @@ ABCD
 sakti123
 
 Nutan added new line
-<<<<<<< HEAD
+
 
 One more line added to check merge
-=======
+
 sakti 2nd update
->>>>>>> 5805898fde711d838796f09889839e60f0325661
+
