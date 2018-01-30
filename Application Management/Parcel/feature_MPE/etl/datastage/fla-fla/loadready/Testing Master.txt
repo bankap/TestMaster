@@ -2,4 +2,8 @@ ABCD
 
 sakti123
 
+<<<<<<< HEAD
 Nutan added new line
+=======
+sakti 2nd update
+>>>>>>> 2nd updat by sakti testing master.txt
